@@ -11,6 +11,15 @@ generates a 5 and a 6, the next toss generates a 2 and a 1, the program should p
 of each toss, and the grand total of tosses.
 I limited the number of tosses to 3 in the program.
 
-##### Suggestions and corrections are welcomed
+### Date created
+05/26/2021
+
+### Last Update
+05/27/2021
+
+### Required software
+Golang
+
+##### Suggestions and corrections are welcome
 If you have any ideas for me to improve or other beginner projects, I will happily receive them.
 My email: guillaume.kofi@gmail.com
